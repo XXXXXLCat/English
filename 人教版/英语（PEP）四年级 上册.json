@@ -1,0 +1,476 @@
+{
+  "id": "custom-mtfl6vdf",
+  "title": "英语（PEP）四年级 上册",
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1",
+      "words": [
+        {
+          "en": "PE",
+          "zh": "体育（课）",
+          "phonetic": "[ˌpiːˈiː]"
+        },
+        {
+          "en": "job",
+          "zh": "工作；职业",
+          "phonetic": "[dʒɒb]"
+        },
+        {
+          "en": "doctor",
+          "zh": "医生",
+          "phonetic": "[ˈdɒktə(r)]"
+        },
+        {
+          "en": "farmer",
+          "zh": "农场主；农民",
+          "phonetic": "[ˈfɑːmə(r)]"
+        },
+        {
+          "en": "nurse",
+          "zh": "护士",
+          "phonetic": "[nɜːs]"
+        },
+        {
+          "en": "office worker",
+          "zh": "公司职员",
+          "phonetic": "[ˈɒfɪs/ /ˈwɜːkə(r)]"
+        },
+        {
+          "en": "factory worker",
+          "zh": "工厂工人",
+          "phonetic": "[ˈfæktri/ /ˈwɜːkə(r)]"
+        },
+        {
+          "en": "busy",
+          "zh": "忙碌的",
+          "phonetic": "[ˈbɪzi]"
+        },
+        {
+          "en": "tired",
+          "zh": "疲倦的",
+          "phonetic": "[ˈtaɪəd]"
+        },
+        {
+          "en": "chore",
+          "zh": "家庭杂务",
+          "phonetic": "[tʃɔː(r)]"
+        },
+        {
+          "en": "cook",
+          "zh": "烹饪；煮；厨师",
+          "phonetic": "[kʊk]"
+        },
+        {
+          "en": "clean",
+          "zh": "打扫；干净的",
+          "phonetic": "[kliːn]"
+        },
+        {
+          "en": "room",
+          "zh": "房间",
+          "phonetic": "[ruːm]"
+        },
+        {
+          "en": "look after",
+          "zh": "照顾"
+        },
+        {
+          "en": "sweep",
+          "zh": "扫",
+          "phonetic": "[swiːp]"
+        },
+        {
+          "en": "floor",
+          "zh": "地板；地面",
+          "phonetic": "[flɔː(r)]"
+        },
+        {
+          "en": "together",
+          "zh": "在一起；共同",
+          "phonetic": "[təˈɡeðə(r)]"
+        },
+        {
+          "en": "people",
+          "zh": "人；人们",
+          "phonetic": "[ˈpiːpl]"
+        },
+        {
+          "en": "child",
+          "zh": "儿童；小孩",
+          "phonetic": "[tʃaɪld]"
+        },
+        {
+          "en": "children",
+          "zh": "儿童；小孩(复数)",
+          "phonetic": "[ˈtʃɪldrən]"
+        },
+        {
+          "en": "hospital",
+          "zh": "医院",
+          "phonetic": "[ˈhɒspɪtl]"
+        },
+        {
+          "en": "shop",
+          "zh": "商店",
+          "phonetic": "[ʃɒp]"
+        },
+        {
+          "en": "toilet",
+          "zh": "厕所；卫生间",
+          "phonetic": "[ˈtɔɪlət]"
+        },
+        {
+          "en": "bus stop",
+          "zh": "公共汽车站",
+          "phonetic": "[bʌs/ /stɒp]"
+        },
+        {
+          "en": "library",
+          "zh": "图书馆",
+          "phonetic": "[ˈlaɪbrəri]"
+        },
+        {
+          "en": "sport",
+          "zh": "体育运动",
+          "phonetic": "[spɔːt]"
+        },
+        {
+          "en": "walk",
+          "zh": "散步；行走",
+          "phonetic": "[wɔːk]"
+        },
+        {
+          "en": "community",
+          "zh": "社区",
+          "phonetic": "[kəˈmjuːnəti]"
+        },
+        {
+          "en": "favourite",
+          "zh": "最喜欢的",
+          "phonetic": "[ˈfeɪvərɪt]"
+        },
+        {
+          "en": "place",
+          "zh": "地方；场所",
+          "phonetic": "[pleɪs]"
+        },
+        {
+          "en": "photo",
+          "zh": "照片",
+          "phonetic": "[ˈfəʊtəʊ]"
+        },
+        {
+          "en": "story",
+          "zh": "故事",
+          "phonetic": "[ˈstɔːri]"
+        },
+        {
+          "en": "buy",
+          "zh": "购买",
+          "phonetic": "[baɪ]"
+        },
+        {
+          "en": "firefighter",
+          "zh": "消防队员",
+          "phonetic": "[ˈfaɪəfaɪtə(r)]"
+        },
+        {
+          "en": "why",
+          "zh": "为什么",
+          "phonetic": "[waɪ]"
+        },
+        {
+          "en": "driver",
+          "zh": "司机",
+          "phonetic": "[ˈdraɪvə(r)]"
+        },
+        {
+          "en": "important",
+          "zh": "重要的",
+          "phonetic": "[ɪmˈpɔːtnt]"
+        },
+        {
+          "en": "cleaner",
+          "zh": "清洁工",
+          "phonetic": "[ˈkliːnə(r)]"
+        },
+        {
+          "en": "delivery worker",
+          "zh": "快递员",
+          "phonetic": "[dɪˈlɪvəri/ /ˈwɜːkə(r)]"
+        },
+        {
+          "en": "police officer",
+          "zh": "警察；警员",
+          "phonetic": "[pəˈliːs/ /ˈɒfɪsə(r)]"
+        },
+        {
+          "en": "a lot / lots of",
+          "zh": "大量；许多",
+          "phonetic": "[ə/ /lɒt/ /ɒv]"
+        },
+        {
+          "en": "now",
+          "zh": "现在",
+          "phonetic": "[naʊ]"
+        },
+        {
+          "en": "make the bed",
+          "zh": "铺床",
+          "phonetic": "[meɪk/ /ðə/ /bed]"
+        },
+        {
+          "en": "old",
+          "zh": "过去的；年纪大的；老的",
+          "phonetic": "[əʊld]"
+        },
+        {
+          "en": "tell",
+          "zh": "讲述；告诉",
+          "phonetic": "[tel]"
+        },
+        {
+          "en": "everyone",
+          "zh": "每人",
+          "phonetic": "[ˈevriwʌn]"
+        },
+        {
+          "en": "Ms",
+          "zh": "女士（用于女子的姓氏或姓名前，不指明婚否）",
+          "phonetic": "[mɪz]"
+        },
+        {
+          "en": "speak",
+          "zh": "说话；发言",
+          "phonetic": "[spiːk]"
+        },
+        {
+          "en": "weather",
+          "zh": "天气",
+          "phonetic": "[ˈweðə(r)]"
+        },
+        {
+          "en": "sunny",
+          "zh": "阳光充足的",
+          "phonetic": "[ˈsʌni]"
+        },
+        {
+          "en": "hot",
+          "zh": "热的",
+          "phonetic": "[hɒt]"
+        },
+        {
+          "en": "bad",
+          "zh": "令人不快的；坏的",
+          "phonetic": "[bæd]"
+        },
+        {
+          "en": "cold",
+          "zh": "冷的",
+          "phonetic": "[kəʊld]"
+        },
+        {
+          "en": "windy",
+          "zh": "多风的",
+          "phonetic": "[ˈwɪndi]"
+        },
+        {
+          "en": "cloudy",
+          "zh": "多云的",
+          "phonetic": "[ˈklaʊdi]"
+        },
+        {
+          "en": "rainy",
+          "zh": "阴雨的",
+          "phonetic": "[ˈreɪni]"
+        },
+        {
+          "en": "snowy",
+          "zh": "多雪的",
+          "phonetic": "[ˈsnəʊi]"
+        },
+        {
+          "en": "cool",
+          "zh": "凉爽的",
+          "phonetic": "[kuːl]"
+        },
+        {
+          "en": "warm",
+          "zh": "温暖的",
+          "phonetic": "[wɔːm]"
+        },
+        {
+          "en": "tomorrow",
+          "zh": "在明天",
+          "phonetic": "[təˈmɒrəʊ]"
+        },
+        {
+          "en": "rain",
+          "zh": "下雨；雨",
+          "phonetic": "[reɪn]"
+        },
+        {
+          "en": "closed",
+          "zh": "关闭的",
+          "phonetic": "[kləʊzd]"
+        },
+        {
+          "en": "film",
+          "zh": "电影",
+          "phonetic": "[fɪlm]"
+        },
+        {
+          "en": "idea",
+          "zh": "想法；主意",
+          "phonetic": "[aɪˈdɪə]"
+        },
+        {
+          "en": "fly",
+          "zh": "操纵（飞行器等）；飞",
+          "phonetic": "[flaɪ]"
+        },
+        {
+          "en": "kite",
+          "zh": "风筝",
+          "phonetic": "[kaɪt]"
+        },
+        {
+          "en": "snowman",
+          "zh": "雪人",
+          "phonetic": "[ˈsnəʊmæn]"
+        },
+        {
+          "en": "fun",
+          "zh": "享乐；乐趣",
+          "phonetic": "[fʌn]"
+        },
+        {
+          "en": "their",
+          "zh": "他们的；她们的；它们的",
+          "phonetic": "[ðeə(r)]"
+        },
+        {
+          "en": "swim",
+          "zh": "游泳",
+          "phonetic": "[swɪm]"
+        },
+        {
+          "en": "Sydney",
+          "zh": "悉尼",
+          "phonetic": "[ˈsɪdni]"
+        },
+        {
+          "en": "whose",
+          "zh": "谁的",
+          "phonetic": "[huːz]"
+        },
+        {
+          "en": "sweater",
+          "zh": "毛衣",
+          "phonetic": "[ˈswetə(r)]"
+        },
+        {
+          "en": "sock",
+          "zh": "短袜",
+          "phonetic": "[sɒk]"
+        },
+        {
+          "en": "mine",
+          "zh": "我的",
+          "phonetic": "[maɪn]"
+        },
+        {
+          "en": "wear",
+          "zh": "穿；戴",
+          "phonetic": "[weə(r)]"
+        },
+        {
+          "en": "shirt",
+          "zh": "衬衫",
+          "phonetic": "[ʃɜːt]"
+        },
+        {
+          "en": "coat",
+          "zh": "大衣；外套",
+          "phonetic": "[kəʊt]"
+        },
+        {
+          "en": "dress",
+          "zh": "连衣裙",
+          "phonetic": "[dres]"
+        },
+        {
+          "en": "which",
+          "zh": "哪一个；哪一些",
+          "phonetic": "[wɪtʃ]"
+        },
+        {
+          "en": "season",
+          "zh": "季节",
+          "phonetic": "[ˈsiːzn]"
+        },
+        {
+          "en": "winter",
+          "zh": "冬天",
+          "phonetic": "[ˈwɪntə(r)]"
+        },
+        {
+          "en": "snow",
+          "zh": "下雪；雪",
+          "phonetic": "[snəʊ]"
+        },
+        {
+          "en": "get together",
+          "zh": "聚会",
+          "phonetic": "[ɡet/ /təˈɡeðə(r)]"
+        },
+        {
+          "en": "spring",
+          "zh": "春天",
+          "phonetic": "[sprɪŋ]"
+        },
+        {
+          "en": "summer",
+          "zh": "夏天",
+          "phonetic": "[ˈsʌmə(r)]"
+        },
+        {
+          "en": "autumn",
+          "zh": "秋天",
+          "phonetic": "[ˈɔːtəm]"
+        },
+        {
+          "en": "T-shirt",
+          "zh": "T恤衫",
+          "phonetic": "[ˈtiːʃɜːt]"
+        },
+        {
+          "en": "fall",
+          "zh": "落下",
+          "phonetic": "[fɔːl]"
+        },
+        {
+          "en": "leaf",
+          "zh": "叶",
+          "phonetic": "[liːf]"
+        },
+        {
+          "en": "leaves",
+          "zh": "叶(复数)",
+          "phonetic": "[liːvz]"
+        },
+        {
+          "en": "glove",
+          "zh": "手套",
+          "phonetic": "[ɡlʌv]"
+        },
+        {
+          "en": "then",
+          "zh": "然后；那时",
+          "phonetic": "[ðen]"
+        }
+      ]
+    }
+  ]
+}

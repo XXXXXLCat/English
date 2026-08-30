@@ -1,0 +1,722 @@
+{
+  "id": "custom-mtfl6uwx",
+  "title": "英语（PEP）五年级 下册",
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1",
+      "words": [
+        {
+          "en": "must",
+          "zh": "必须",
+          "phonetic": "[mʌst]"
+        },
+        {
+          "en": "sir",
+          "zh": "先生",
+          "phonetic": "[sɜː(r)]"
+        },
+        {
+          "en": "inside",
+          "zh": "在……里",
+          "phonetic": "[ˌɪnˈsaɪd]"
+        },
+        {
+          "en": "scare",
+          "zh": "惊吓；使害怕",
+          "phonetic": "[skeə(r)]"
+        },
+        {
+          "en": "password",
+          "zh": "密码",
+          "phonetic": "[ˈpɑːswɜːd]"
+        },
+        {
+          "en": "line",
+          "zh": "队伍；行列；线条",
+          "phonetic": "[laɪn]"
+        },
+        {
+          "en": "wait",
+          "zh": "等待；等候",
+          "phonetic": "[weɪt]"
+        },
+        {
+          "en": "guard",
+          "zh": "门卫；看守",
+          "phonetic": "[ɡɑːd]"
+        },
+        {
+          "en": "stand",
+          "zh": "站立；立",
+          "phonetic": "[stænd]"
+        },
+        {
+          "en": "shout",
+          "zh": "大声说；叫",
+          "phonetic": "[ʃaʊt]"
+        },
+        {
+          "en": "smoke",
+          "zh": "吸（烟）",
+          "phonetic": "[sməʊk]"
+        },
+        {
+          "en": "flash",
+          "zh": "闪光灯",
+          "phonetic": "[flæʃ]"
+        },
+        {
+          "en": "open",
+          "zh": "开放；打开",
+          "phonetic": "[ˈəʊpən]"
+        },
+        {
+          "en": "return",
+          "zh": "归还；回去；返回",
+          "phonetic": "[rɪˈtɜːn]"
+        },
+        {
+          "en": "borrow",
+          "zh": "借；借用",
+          "phonetic": "[ˈbɒrəʊ]"
+        },
+        {
+          "en": "write",
+          "zh": "书写；写字",
+          "phonetic": "[raɪt]"
+        },
+        {
+          "en": "city",
+          "zh": "都市；城市",
+          "phonetic": "[ˈsɪti]"
+        },
+        {
+          "en": "behind",
+          "zh": "在……的后面",
+          "phonetic": "[bɪˈhaɪnd]"
+        },
+        {
+          "en": "left",
+          "zh": "向左；左边",
+          "phonetic": "[left]"
+        },
+        {
+          "en": "teach",
+          "zh": "教（课程）；讲授",
+          "phonetic": "[tiːtʃ]"
+        },
+        {
+          "en": "litter",
+          "zh": "垃圾；废弃物",
+          "phonetic": "[ˈlɪtə(r)]"
+        },
+        {
+          "en": "recycle",
+          "zh": "回收利用；再利用",
+          "phonetic": "[ˌriːˈsaɪkl]"
+        },
+        {
+          "en": "taxi",
+          "zh": "出租汽车；计程车",
+          "phonetic": "[ˈtæksi]"
+        },
+        {
+          "en": "traffic",
+          "zh": "交通",
+          "phonetic": "[ˈtræfɪk]"
+        },
+        {
+          "en": "direct",
+          "zh": "给（某人）指路；指挥",
+          "phonetic": "[dəˈrekt]"
+        },
+        {
+          "en": "artist",
+          "zh": "艺术家；画家",
+          "phonetic": "[ˈɑːtɪst]"
+        },
+        {
+          "en": "Ms",
+          "zh": "（用于女子的姓氏或姓名前，不指明婚否）女士",
+          "phonetic": "[mɪz]"
+        },
+        {
+          "en": "scientist",
+          "zh": "科学家",
+          "phonetic": "[ˈsaɪəntɪst]"
+        },
+        {
+          "en": "volunteer",
+          "zh": "志愿者",
+          "phonetic": "[ˌvɒlənˈtɪə(r)]"
+        },
+        {
+          "en": "live",
+          "zh": "住；居住",
+          "phonetic": "[lɪv]"
+        },
+        {
+          "en": "train",
+          "zh": "火车；列车",
+          "phonetic": "[treɪn]"
+        },
+        {
+          "en": "lost",
+          "zh": "迷路的；迷失的",
+          "phonetic": "[lɒst]"
+        },
+        {
+          "en": "sign",
+          "zh": "指示牌；标志",
+          "phonetic": "[saɪn]"
+        },
+        {
+          "en": "note",
+          "zh": "笔记；便条",
+          "phonetic": "[nəʊt]"
+        },
+        {
+          "en": "foreign",
+          "zh": "外国的",
+          "phonetic": "[ˈfɒrən]"
+        },
+        {
+          "en": "visitor",
+          "zh": "游客；参观者",
+          "phonetic": "[ˈvɪzɪtə(r)]"
+        },
+        {
+          "en": "along",
+          "zh": "沿着；顺着",
+          "phonetic": "[əˈlɒŋ]"
+        },
+        {
+          "en": "street",
+          "zh": "大街；街道",
+          "phonetic": "[striːt]"
+        },
+        {
+          "en": "station",
+          "zh": "局；所；站",
+          "phonetic": "[ˈsteɪʃn]"
+        },
+        {
+          "en": "next",
+          "zh": "紧邻；紧接着",
+          "phonetic": "[nekst]"
+        },
+        {
+          "en": "far",
+          "zh": "远的；较远的",
+          "phonetic": "[fɑː(r)]"
+        },
+        {
+          "en": "cinema",
+          "zh": "电影院",
+          "phonetic": "[ˈsɪnəmə]"
+        },
+        {
+          "en": "between",
+          "zh": "在……中间；介于……之间",
+          "phonetic": "[bɪˈtwiːn]"
+        },
+        {
+          "en": "January",
+          "zh": "一月",
+          "phonetic": "[ˈdʒænjuəri]"
+        },
+        {
+          "en": "February",
+          "zh": "二月",
+          "phonetic": "[ˈfebruəri]"
+        },
+        {
+          "en": "skate",
+          "zh": "滑冰；溜冰",
+          "phonetic": "[skeɪt]"
+        },
+        {
+          "en": "holiday",
+          "zh": "假期",
+          "phonetic": "[ˈhɒlədeɪ]"
+        },
+        {
+          "en": "March",
+          "zh": "三月",
+          "phonetic": "[mɑːtʃ]"
+        },
+        {
+          "en": "April",
+          "zh": "四月",
+          "phonetic": "[ˈeɪprəl]"
+        },
+        {
+          "en": "May",
+          "zh": "五月",
+          "phonetic": "[meɪ]"
+        },
+        {
+          "en": "June",
+          "zh": "六月",
+          "phonetic": "[dʒuːn]"
+        },
+        {
+          "en": "party",
+          "zh": "联欢会；聚会",
+          "phonetic": "[ˈpɑːti]"
+        },
+        {
+          "en": "celebrate",
+          "zh": "庆祝；庆贺",
+          "phonetic": "[ˈselɪbreɪt]"
+        },
+        {
+          "en": "December",
+          "zh": "十二月",
+          "phonetic": "[dɪˈsembə(r)]"
+        },
+        {
+          "en": "Christmas",
+          "zh": "圣诞节",
+          "phonetic": "[ˈkrɪsməs]"
+        },
+        {
+          "en": "turkey",
+          "zh": "火鸡",
+          "phonetic": "[ˈtɜːki]"
+        },
+        {
+          "en": "July",
+          "zh": "七月",
+          "phonetic": "[dʒuˈlaɪ]"
+        },
+        {
+          "en": "August",
+          "zh": "八月",
+          "phonetic": "[ˈɔːɡəst]"
+        },
+        {
+          "en": "September",
+          "zh": "九月",
+          "phonetic": "[sepˈtembə(r)]"
+        },
+        {
+          "en": "October",
+          "zh": "十月",
+          "phonetic": "[ɒkˈtəʊbə(r)]"
+        },
+        {
+          "en": "November",
+          "zh": "十一月",
+          "phonetic": "[nəʊˈvembə(r)]"
+        },
+        {
+          "en": "country",
+          "zh": "国；国家",
+          "phonetic": "[ˈkʌntri]"
+        },
+        {
+          "en": "sit",
+          "zh": "坐",
+          "phonetic": "[sɪt]"
+        },
+        {
+          "en": "beside",
+          "zh": "在旁边；在附近",
+          "phonetic": "[bɪˈsaɪd]"
+        },
+        {
+          "en": "west",
+          "zh": "西；西方",
+          "phonetic": "[west]"
+        },
+        {
+          "en": "cup",
+          "zh": "一杯（的量）；杯子",
+          "phonetic": "[kʌp]"
+        },
+        {
+          "en": "sunshine",
+          "zh": "阳光；日光",
+          "phonetic": "[ˈsʌnʃaɪn]"
+        },
+        {
+          "en": "catch",
+          "zh": "捕捉；接住",
+          "phonetic": "[kætʃ]"
+        },
+        {
+          "en": "ago",
+          "zh": "以前",
+          "phonetic": "[əˈɡəʊ]"
+        },
+        {
+          "en": "ice",
+          "zh": "冰；冰块；冰场",
+          "phonetic": "[aɪs]"
+        },
+        {
+          "en": "Labour Day",
+          "zh": "劳动节",
+          "phonetic": "[ləˈbɔː(r) deɪ]"
+        },
+        {
+          "en": "Dragon Boat Festival",
+          "zh": "端午节",
+          "phonetic": "[ˈdræɡən bəʊt ˈfestɪvl]"
+        },
+        {
+          "en": "CPC Founding Day",
+          "zh": "中国共产党建党日",
+          "phonetic": "[siː piː siː ˈfaʊndɪŋ deɪ]"
+        },
+        {
+          "en": "PLA Day",
+          "zh": "中国人民解放军建军节",
+          "phonetic": "[piː el eɪ deɪ]"
+        },
+        {
+          "en": "National Day",
+          "zh": "国庆节",
+          "phonetic": "[ˈnæʃnəl deɪ]"
+        },
+        {
+          "en": "hometown",
+          "zh": "家乡；故乡",
+          "phonetic": "[ˈhəʊmtaʊn]"
+        },
+        {
+          "en": "its",
+          "zh": "它的",
+          "phonetic": "[ɪts]"
+        },
+        {
+          "en": "common",
+          "zh": "共同的；共有的",
+          "phonetic": "[ˈkɒmən]"
+        },
+        {
+          "en": "beach",
+          "zh": "海滩；沙滩",
+          "phonetic": "[biːtʃ]"
+        },
+        {
+          "en": "desert",
+          "zh": "沙漠；荒漠",
+          "phonetic": "[ˈdezət]"
+        },
+        {
+          "en": "grassland",
+          "zh": "草原；草地",
+          "phonetic": "[ˈɡrɑːslænd]"
+        },
+        {
+          "en": "special",
+          "zh": "特别的；特殊的",
+          "phonetic": "[ˈspeʃl]"
+        },
+        {
+          "en": "wild",
+          "zh": "野生的；自然生长的",
+          "phonetic": "[waɪld]"
+        },
+        {
+          "en": "kangaroo",
+          "zh": "袋鼠",
+          "phonetic": "[ˌkæŋɡəˈruː]"
+        },
+        {
+          "en": "koala",
+          "zh": "考拉",
+          "phonetic": "[kəʊˈɑːlə]"
+        },
+        {
+          "en": "wish",
+          "zh": "希望（做某事）",
+          "phonetic": "[wɪʃ]"
+        },
+        {
+          "en": "could",
+          "zh": "（表示可能性）可以，可能",
+          "phonetic": "[kʊd]"
+        },
+        {
+          "en": "high",
+          "zh": "高的",
+          "phonetic": "[haɪ]"
+        },
+        {
+          "en": "island",
+          "zh": "岛；岛屿",
+          "phonetic": "[ˈaɪlənd]"
+        },
+        {
+          "en": "travel",
+          "zh": "旅行；长途行走；从一处到另一处",
+          "phonetic": "[ˈtrævl]"
+        },
+        {
+          "en": "feel like",
+          "zh": "感觉像是……",
+          "phonetic": "[fiːl laɪk]"
+        },
+        {
+          "en": "middle",
+          "zh": "中间；中央",
+          "phonetic": "[ˈmɪdl]"
+        },
+        {
+          "en": "painting",
+          "zh": "油画；绘画",
+          "phonetic": "[ˈpeɪntɪŋ]"
+        },
+        {
+          "en": "pyramid",
+          "zh": "（古埃及的）金字塔",
+          "phonetic": "[ˈpɪrəmɪd]"
+        },
+        {
+          "en": "ride",
+          "zh": "骑；驾驶",
+          "phonetic": "[raɪd]"
+        },
+        {
+          "en": "camel",
+          "zh": "骆驼",
+          "phonetic": "[ˈkæml]"
+        },
+        {
+          "en": "even",
+          "zh": "（强调出乎意料）甚至，连，即使",
+          "phonetic": "[ˈiːvn]"
+        },
+        {
+          "en": "Confucius",
+          "zh": "孔子",
+          "phonetic": "[kənˈfjuːʃəs]"
+        },
+        {
+          "en": "Beijing opera",
+          "zh": "京剧",
+          "phonetic": "[ˌbeɪˈdʒɪŋ ˈɒprə]"
+        },
+        {
+          "en": "Mount Taishan",
+          "zh": "泰山",
+          "phonetic": "[maʊnt ˈtaɪʃæn]"
+        },
+        {
+          "en": "India",
+          "zh": "印度",
+          "phonetic": "[ˈɪndiə]"
+        },
+        {
+          "en": "Italy",
+          "zh": "意大利",
+          "phonetic": "[ˈɪtəli]"
+        },
+        {
+          "en": "Britain",
+          "zh": "不列颠（包括英格兰、苏格兰及威尔士）",
+          "phonetic": "[ˈbrɪtn]"
+        },
+        {
+          "en": "Cairo",
+          "zh": "开罗（埃及首都）",
+          "phonetic": "[ˈkaɪərəʊ]"
+        },
+        {
+          "en": "Hawaii",
+          "zh": "夏威夷",
+          "phonetic": "[həˈwaɪi]"
+        },
+        {
+          "en": "hurt",
+          "zh": "对……有不良影响；（使）疼痛，受伤",
+          "phonetic": "[hɜːt]"
+        },
+        {
+          "en": "environment",
+          "zh": "自然环境",
+          "phonetic": "[ɪnˈvaɪrənmənt]"
+        },
+        {
+          "en": "tip",
+          "zh": "实用的提示；指点",
+          "phonetic": "[tɪp]"
+        },
+        {
+          "en": "health",
+          "zh": "健康",
+          "phonetic": "[helθ]"
+        },
+        {
+          "en": "carry",
+          "zh": "运送；承载",
+          "phonetic": "[ˈkæri]"
+        },
+        {
+          "en": "finally",
+          "zh": "（用于列举）最后；终于",
+          "phonetic": "[ˈfaɪnəli]"
+        },
+        {
+          "en": "suggest",
+          "zh": "建议；提议",
+          "phonetic": "[səˈdʒest]"
+        },
+        {
+          "en": "everyday",
+          "zh": "每天的；日常的",
+          "phonetic": "[ˈevrideɪ]"
+        },
+        {
+          "en": "early",
+          "zh": "早到的；提前的",
+          "phonetic": "[ˈɜːli]"
+        },
+        {
+          "en": "underground",
+          "zh": "地铁",
+          "phonetic": "[ˌʌndəˈɡraʊnd]"
+        },
+        {
+          "en": "bike",
+          "zh": "自行车；脚踏车",
+          "phonetic": "[baɪk]"
+        },
+        {
+          "en": "foot",
+          "zh": "（人或动物的）脚，足",
+          "phonetic": "[fʊt]"
+        },
+        {
+          "en": "feet",
+          "zh": "脚，足(复数)",
+          "phonetic": "[fiːt]"
+        },
+        {
+          "en": "on foot",
+          "zh": "步行",
+          "phonetic": "[ɒn fʊt]"
+        },
+        {
+          "en": "plane",
+          "zh": "飞机",
+          "phonetic": "[pleɪn]"
+        },
+        {
+          "en": "ship",
+          "zh": "（大）船；舰",
+          "phonetic": "[ʃɪp]"
+        },
+        {
+          "en": "internet",
+          "zh": "互联网；因特网",
+          "phonetic": "[ˈɪntənet]"
+        },
+        {
+          "en": "seafood",
+          "zh": "海鲜",
+          "phonetic": "[ˈsiːfuːd]"
+        },
+        {
+          "en": "maybe",
+          "zh": "（不确定）大概，或许，可能",
+          "phonetic": "[ˈmeɪbi]"
+        },
+        {
+          "en": "join",
+          "zh": "参与；加入",
+          "phonetic": "[dʒɔɪn]"
+        },
+        {
+          "en": "hill",
+          "zh": "山丘；小山",
+          "phonetic": "[hɪl]"
+        },
+        {
+          "en": "explore",
+          "zh": "探索",
+          "phonetic": "[ɪkˈsplɔː(r)]"
+        },
+        {
+          "en": "culture",
+          "zh": "文化；文明",
+          "phonetic": "[ˈkʌltʃə(r)]"
+        },
+        {
+          "en": "hot pot",
+          "zh": "火锅",
+          "phonetic": "[ˌhɒt ˈpɒt]"
+        },
+        {
+          "en": "tour",
+          "zh": "旅行；旅游",
+          "phonetic": "[tʊə(r)]"
+        },
+        {
+          "en": "local",
+          "zh": "当地的；本地的",
+          "phonetic": "[ˈləʊkl]"
+        },
+        {
+          "en": "history",
+          "zh": "历史",
+          "phonetic": "[ˈhɪstri]"
+        },
+        {
+          "en": "plan",
+          "zh": "计划；打算",
+          "phonetic": "[plæn]"
+        },
+        {
+          "en": "app",
+          "zh": "应用软件",
+          "phonetic": "[æp]"
+        },
+        {
+          "en": "information",
+          "zh": "信息；消息",
+          "phonetic": "[ˌɪnfəˈmeɪʃn]"
+        },
+        {
+          "en": "blog",
+          "zh": "博客",
+          "phonetic": "[blɒɡ]"
+        },
+        {
+          "en": "magazine",
+          "zh": "杂志；期刊",
+          "phonetic": "[ˌmæɡəˈziːn]"
+        },
+        {
+          "en": "northeast",
+          "zh": "东北；东北方",
+          "phonetic": "[ˌnɔːθˈiːst]"
+        },
+        {
+          "en": "building",
+          "zh": "建筑物；房子",
+          "phonetic": "[ˈbɪldɪŋ]"
+        },
+        {
+          "en": "palace",
+          "zh": "王宫；宫殿",
+          "phonetic": "[ˈpæləs]"
+        },
+        {
+          "en": "stone",
+          "zh": "石头；岩石",
+          "phonetic": "[stəʊn]"
+        },
+        {
+          "en": "last",
+          "zh": "最后的；末尾的",
+          "phonetic": "[lɑːst]"
+        }
+      ]
+    }
+  ]
+}

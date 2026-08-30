@@ -1,0 +1,730 @@
+{
+  "id": "custom-mtfl6v57",
+  "title": "英语（PEP）六年级 上册",
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1",
+      "words": [
+        {
+          "en": "was",
+          "zh": "(be的第一和第三人称单数过去式)",
+          "phonetic": "[wɒz]"
+        },
+        {
+          "en": "climb",
+          "zh": "攀登；爬",
+          "phonetic": "[klaɪm]"
+        },
+        {
+          "en": "kilometre",
+          "zh": "千米；公里",
+          "phonetic": "[ˈkɪləmiːtə(r)]"
+        },
+        {
+          "en": "gingerbread",
+          "zh": "姜饼屋",
+          "phonetic": "[ˈdʒɪndʒəbred]"
+        },
+        {
+          "en": "send",
+          "zh": "邮寄；发送",
+          "phonetic": "[send]"
+        },
+        {
+          "en": "go (过去式 went)",
+          "zh": "去；走",
+          "phonetic": "[ɡəʊ]"
+        },
+        {
+          "en": "thousand",
+          "zh": "一千",
+          "phonetic": "[ˈθaʊznd]"
+        },
+        {
+          "en": "clay",
+          "zh": "黏土；陶土",
+          "phonetic": "[kleɪ]"
+        },
+        {
+          "en": "see (过去式 saw)",
+          "zh": "看见",
+          "phonetic": "[siː]"
+        },
+        {
+          "en": "village",
+          "zh": "村庄；村镇",
+          "phonetic": "[ˈvɪlɪdʒ]"
+        },
+        {
+          "en": "eat (过去式 ate)",
+          "zh": "吃",
+          "phonetic": "[iːt]"
+        },
+        {
+          "en": "dry",
+          "zh": "干的",
+          "phonetic": "[draɪ]"
+        },
+        {
+          "en": "take (过去式 took)",
+          "zh": "做(某个动作)；和名词连用代替某个动词",
+          "phonetic": "[teɪk]"
+        },
+        {
+          "en": "view",
+          "zh": "景色",
+          "phonetic": "[vjuː]"
+        },
+        {
+          "en": "inspiring",
+          "zh": "鼓舞人心的",
+          "phonetic": "[ɪnˈspaɪərɪŋ]"
+        },
+        {
+          "en": "bamboo",
+          "zh": "竹；竹子",
+          "phonetic": "[bæmˈbuː]"
+        },
+        {
+          "en": "pumpkin",
+          "zh": "南瓜",
+          "phonetic": "[ˈpʌmpkɪn]"
+        },
+        {
+          "en": "restaurant",
+          "zh": "餐馆；餐厅",
+          "phonetic": "[ˈrestrɒnt]"
+        },
+        {
+          "en": "airport",
+          "zh": "机场",
+          "phonetic": "[ˈeəpɔːt]"
+        },
+        {
+          "en": "New Zealand",
+          "zh": "新西兰",
+          "phonetic": "[ˌnjuː ˈziːlənd]"
+        },
+        {
+          "en": "Hong Kong-Zhuhai-Macao Bridge",
+          "zh": "港珠澳大桥"
+        },
+        {
+          "en": "Paris",
+          "zh": "巴黎",
+          "phonetic": "[ˈpærɪs]"
+        },
+        {
+          "en": "Eiffel Tower",
+          "zh": "埃菲尔铁塔",
+          "phonetic": "[ˈaɪfl ˈtaʊə(r)]"
+        },
+        {
+          "en": "Terracotta Warriors",
+          "zh": "兵马俑",
+          "phonetic": "[ˌterəˈkɒtə ˈwɒrɪəz]"
+        },
+        {
+          "en": "Jinggangshan Revolution Museum",
+          "zh": "井冈山革命博物馆",
+          "phonetic": "[ˌdʒɪŋɡæŋʃæn ˌrevəˈluːʃn mjuˈziːəm]"
+        },
+        {
+          "en": "the Red Army",
+          "zh": "红军"
+        },
+        {
+          "en": "paste",
+          "zh": "粘贴",
+          "phonetic": "[peɪst]"
+        },
+        {
+          "en": "dress",
+          "zh": "穿衣服",
+          "phonetic": "[dres]"
+        },
+        {
+          "en": "gala",
+          "zh": "演出；庆典",
+          "phonetic": "[ˈɡɑːlə]"
+        },
+        {
+          "en": "count down",
+          "zh": "倒计时",
+          "phonetic": "[kaʊnt daʊn]"
+        },
+        {
+          "en": "marathon",
+          "zh": "马拉松赛跑",
+          "phonetic": "[ˈmærəθən]"
+        },
+        {
+          "en": "as",
+          "zh": "作为",
+          "phonetic": "[æz]"
+        },
+        {
+          "en": "race",
+          "zh": "赛跑；速度竞赛",
+          "phonetic": "[reɪs]"
+        },
+        {
+          "en": "run (过去式 ran)",
+          "zh": "跑；奔跑",
+          "phonetic": "[rʌn]"
+        },
+        {
+          "en": "cheer",
+          "zh": "欢呼；加油",
+          "phonetic": "[tʃɪə(r)]"
+        },
+        {
+          "en": "book fair",
+          "zh": "书市",
+          "phonetic": "[bʊk feə(r)]"
+        },
+        {
+          "en": "writer",
+          "zh": "作家；作者",
+          "phonetic": "[ˈraɪtə(r)]"
+        },
+        {
+          "en": "read (过去式 read)",
+          "zh": "阅读",
+          "phonetic": "[riːd]"
+        },
+        {
+          "en": "make (过去式 made)",
+          "zh": "做；使出现",
+          "phonetic": "[meɪk]"
+        },
+        {
+          "en": "sing (过去式 sang)",
+          "zh": "唱(歌)；演唱",
+          "phonetic": "[sɪŋ]"
+        },
+        {
+          "en": "wear (过去式 wore)",
+          "zh": "穿；戴",
+          "phonetic": "[weə(r)]"
+        },
+        {
+          "en": "yesterday",
+          "zh": "昨天",
+          "phonetic": "[ˈjestədeɪ]"
+        },
+        {
+          "en": "notice",
+          "zh": "通知",
+          "phonetic": "[ˈnəʊtɪs]"
+        },
+        {
+          "en": "wake (过去式 woke)",
+          "zh": "醒；醒来",
+          "phonetic": "[weɪk]"
+        },
+        {
+          "en": "later",
+          "zh": "随后；后来",
+          "phonetic": "[ˈleɪtə(r)]"
+        },
+        {
+          "en": "judge",
+          "zh": "裁判",
+          "phonetic": "[dʒʌdʒ]"
+        },
+        {
+          "en": "begin (过去式 began)",
+          "zh": "开始",
+          "phonetic": "[bɪˈɡɪn]"
+        },
+        {
+          "en": "win (过去式 won)",
+          "zh": "获胜",
+          "phonetic": "[wɪn]"
+        },
+        {
+          "en": "winner",
+          "zh": "获胜的人(或队)；成功者",
+          "phonetic": "[ˈwɪnə(r)]"
+        },
+        {
+          "en": "ever",
+          "zh": "(进行比较时用于加强语气)以往任何时候",
+          "phonetic": "[ˈevə(r)]"
+        },
+        {
+          "en": "exciting",
+          "zh": "令人激动的",
+          "phonetic": "[ɪkˈsaɪtɪŋ]"
+        },
+        {
+          "en": "cold",
+          "zh": "感冒",
+          "phonetic": "[kəʊld]"
+        },
+        {
+          "en": "ill",
+          "zh": "不舒服；生病的",
+          "phonetic": "[ɪl]"
+        },
+        {
+          "en": "head",
+          "zh": "头；头部",
+          "phonetic": "[hed]"
+        },
+        {
+          "en": "runny nose",
+          "zh": "流鼻涕",
+          "phonetic": "[ˈrʌni nəʊz]"
+        },
+        {
+          "en": "soon",
+          "zh": "很快；马上",
+          "phonetic": "[suːn]"
+        },
+        {
+          "en": "fever",
+          "zh": "发烧；发热",
+          "phonetic": "[ˈfiːvə(r)]"
+        },
+        {
+          "en": "cough",
+          "zh": "咳嗽",
+          "phonetic": "[kɒf]"
+        },
+        {
+          "en": "discuss",
+          "zh": "讨论；商量",
+          "phonetic": "[dɪˈskʌs]"
+        },
+        {
+          "en": "diet",
+          "zh": "日常饮食",
+          "phonetic": "[ˈdaɪət]"
+        },
+        {
+          "en": "stay up",
+          "zh": "熬夜",
+          "phonetic": "[steɪ ʌp]"
+        },
+        {
+          "en": "cry",
+          "zh": "哭；哭泣",
+          "phonetic": "[kraɪ]"
+        },
+        {
+          "en": "another",
+          "zh": "另一；不同的(人或事物)",
+          "phonetic": "[əˈnʌðə(r)]"
+        },
+        {
+          "en": "call",
+          "zh": "(给……)打电话",
+          "phonetic": "[kɔːl]"
+        },
+        {
+          "en": "email",
+          "zh": "电子邮件",
+          "phonetic": "[ˈiːmeɪl]"
+        },
+        {
+          "en": "unhappy",
+          "zh": "不快乐的；难过的",
+          "phonetic": "[ʌnˈhæpi]"
+        },
+        {
+          "en": "glass",
+          "zh": "一杯(的量)；玻璃",
+          "phonetic": "[ɡlɑːs]"
+        },
+        {
+          "en": "may",
+          "zh": "也许；可能",
+          "phonetic": "[meɪ]"
+        },
+        {
+          "en": "add",
+          "zh": "补充说；增加",
+          "phonetic": "[æd]"
+        },
+        {
+          "en": "video",
+          "zh": "视频；录像",
+          "phonetic": "[ˈvɪdiəʊ]"
+        },
+        {
+          "en": "better",
+          "zh": "舒畅些的；(病势)好转的",
+          "phonetic": "[ˈbetə(r)]"
+        },
+        {
+          "en": "money",
+          "zh": "钱",
+          "phonetic": "[ˈmʌni]"
+        },
+        {
+          "en": "pocket money",
+          "zh": "零花钱",
+          "phonetic": "[ˈpɒkɪt ˈmʌni]"
+        },
+        {
+          "en": "schoolbag",
+          "zh": "书包",
+          "phonetic": "[ˈskuːlbæɡ]"
+        },
+        {
+          "en": "goods",
+          "zh": "商品",
+          "phonetic": "[ɡʊdz]"
+        },
+        {
+          "en": "drink",
+          "zh": "饮料",
+          "phonetic": "[drɪŋk]"
+        },
+        {
+          "en": "service",
+          "zh": "服务",
+          "phonetic": "[ˈsɜːvɪs]"
+        },
+        {
+          "en": "haircut",
+          "zh": "理发；发型",
+          "phonetic": "[ˈheəkʌt]"
+        },
+        {
+          "en": "microscope",
+          "zh": "显微镜",
+          "phonetic": "[ˈmaɪkrəskəʊp]"
+        },
+        {
+          "en": "lucky",
+          "zh": "幸运的",
+          "phonetic": "[ˈlʌki]"
+        },
+        {
+          "en": "half",
+          "zh": "一半",
+          "phonetic": "[hɑːf]"
+        },
+        {
+          "en": "save up",
+          "zh": "攒钱",
+          "phonetic": "[seɪv ʌp]"
+        },
+        {
+          "en": "sale",
+          "zh": "特价销售；出售",
+          "phonetic": "[seɪl]"
+        },
+        {
+          "en": "ticket",
+          "zh": "票",
+          "phonetic": "[ˈtɪkɪt]"
+        },
+        {
+          "en": "manage",
+          "zh": "管理",
+          "phonetic": "[ˈmænɪdʒ]"
+        },
+        {
+          "en": "sell",
+          "zh": "出售；售卖",
+          "phonetic": "[sel]"
+        },
+        {
+          "en": "jar",
+          "zh": "罐子",
+          "phonetic": "[dʒɑː(r)]"
+        },
+        {
+          "en": "for example",
+          "zh": "例如",
+          "phonetic": "[fɔː(r) ɪɡˈzɑːmpl]"
+        },
+        {
+          "en": "planet",
+          "zh": "行星",
+          "phonetic": "[ˈplænɪt]"
+        },
+        {
+          "en": "earth",
+          "zh": "地球",
+          "phonetic": "[ɜːθ]"
+        },
+        {
+          "en": "sky",
+          "zh": "天；天空",
+          "phonetic": "[skaɪ]"
+        },
+        {
+          "en": "daytime",
+          "zh": "白天",
+          "phonetic": "[ˈdeɪtaɪm]"
+        },
+        {
+          "en": "cloud",
+          "zh": "云",
+          "phonetic": "[klaʊd]"
+        },
+        {
+          "en": "moon",
+          "zh": "月球；月亮；卫星",
+          "phonetic": "[muːn]"
+        },
+        {
+          "en": "star",
+          "zh": "恒星；星",
+          "phonetic": "[stɑː(r)]"
+        },
+        {
+          "en": "space",
+          "zh": "太空；空间",
+          "phonetic": "[speɪs]"
+        },
+        {
+          "en": "outer space",
+          "zh": "外太空",
+          "phonetic": "[ˈaʊtə speɪs]"
+        },
+        {
+          "en": "space station",
+          "zh": "空间站",
+          "phonetic": "[speɪs ˈsteɪʃn]"
+        },
+        {
+          "en": "ocean",
+          "zh": "海洋",
+          "phonetic": "[ˈəʊʃn]"
+        },
+        {
+          "en": "marble",
+          "zh": "(玻璃)弹子",
+          "phonetic": "[ˈmɑːbl]"
+        },
+        {
+          "en": "satellite",
+          "zh": "人造卫星",
+          "phonetic": "[ˈsætəlaɪt]"
+        },
+        {
+          "en": "soil",
+          "zh": "土壤",
+          "phonetic": "[sɔɪl]"
+        },
+        {
+          "en": "alien",
+          "zh": "外星生物",
+          "phonetic": "[ˈeɪliən]"
+        },
+        {
+          "en": "sunrise",
+          "zh": "日出",
+          "phonetic": "[ˈsʌnraɪz]"
+        },
+        {
+          "en": "rover",
+          "zh": "探测器",
+          "phonetic": "[ˈrəʊvə(r)]"
+        },
+        {
+          "en": "into",
+          "zh": "朝；进入",
+          "phonetic": "[ˈɪntə]"
+        },
+        {
+          "en": "telescope",
+          "zh": "望远镜",
+          "phonetic": "[ˈtelɪskəʊp]"
+        },
+        {
+          "en": "astronaut",
+          "zh": "航天员；宇航员",
+          "phonetic": "[ˈæstrənɔːt]"
+        },
+        {
+          "en": "spaceship",
+          "zh": "宇宙飞船",
+          "phonetic": "[ˈspeɪsʃɪp]"
+        },
+        {
+          "en": "month",
+          "zh": "月；月份",
+          "phonetic": "[mʌnθ]"
+        },
+        {
+          "en": "taikonaut",
+          "zh": "中国航天员",
+          "phonetic": "[ˈtaɪkənɔːt]"
+        },
+        {
+          "en": "cloth",
+          "zh": "(一块)布；织物",
+          "phonetic": "[klɒθ]"
+        },
+        {
+          "en": "toothpaste",
+          "zh": "牙膏",
+          "phonetic": "[ˈtuːθpeɪst]"
+        },
+        {
+          "en": "question",
+          "zh": "问题",
+          "phonetic": "[ˈkwestʃən]"
+        },
+        {
+          "en": "sunset",
+          "zh": "日落",
+          "phonetic": "[ˈsʌnset]"
+        },
+        {
+          "en": "time",
+          "zh": "次；回",
+          "phonetic": "[taɪm]"
+        },
+        {
+          "en": "Mars",
+          "zh": "火星",
+          "phonetic": "[mɑːz]"
+        },
+        {
+          "en": "power",
+          "zh": "能；能量",
+          "phonetic": "[ˈpaʊə(r)]"
+        },
+        {
+          "en": "electricity",
+          "zh": "电",
+          "phonetic": "[ɪˌlekˈtrɪsəti]"
+        },
+        {
+          "en": "solar",
+          "zh": "太阳的",
+          "phonetic": "[ˈsəʊlə(r)]"
+        },
+        {
+          "en": "type",
+          "zh": "类型；种类",
+          "phonetic": "[taɪp]"
+        },
+        {
+          "en": "energy",
+          "zh": "能源",
+          "phonetic": "[ˈenədʒi]"
+        },
+        {
+          "en": "light",
+          "zh": "照亮",
+          "phonetic": "[laɪt]"
+        },
+        {
+          "en": "heat",
+          "zh": "加热；(使)变暖；热量",
+          "phonetic": "[hiːt]"
+        },
+        {
+          "en": "cool",
+          "zh": "(使)变凉，冷却",
+          "phonetic": "[kuːl]"
+        },
+        {
+          "en": "run",
+          "zh": "(使)运转",
+          "phonetic": "[rʌn]"
+        },
+        {
+          "en": "resource",
+          "zh": "资源",
+          "phonetic": "[rɪˈzɔːs]"
+        },
+        {
+          "en": "run out",
+          "zh": "用完",
+          "phonetic": "[rʌn aʊt]"
+        },
+        {
+          "en": "change",
+          "zh": "(使)不同；改变",
+          "phonetic": "[tʃeɪndʒ]"
+        },
+        {
+          "en": "quick",
+          "zh": "迅速的；快的",
+          "phonetic": "[kwɪk]"
+        },
+        {
+          "en": "shower",
+          "zh": "淋浴",
+          "phonetic": "[ˈʃaʊə(r)]"
+        },
+        {
+          "en": "unplug",
+          "zh": "拔掉……的电源插头",
+          "phonetic": "[ʌnˈplʌɡ]"
+        },
+        {
+          "en": "difference",
+          "zh": "差别；不同(之处)",
+          "phonetic": "[ˈdɪfrəns]"
+        },
+        {
+          "en": "reduce",
+          "zh": "减少",
+          "phonetic": "[rɪˈdjuːs]"
+        },
+        {
+          "en": "air conditioner",
+          "zh": "空调机",
+          "phonetic": "[ˈeə kəndɪʃənə(r)]"
+        },
+        {
+          "en": "drive",
+          "zh": "驾驶；开车",
+          "phonetic": "[draɪv]"
+        },
+        {
+          "en": "reuse",
+          "zh": "再次使用；重复使用",
+          "phonetic": "[ˌriːˈjuːz]"
+        },
+        {
+          "en": "own",
+          "zh": "自己的",
+          "phonetic": "[əʊn]"
+        },
+        {
+          "en": "market",
+          "zh": "集市；市场",
+          "phonetic": "[ˈmɑːkɪt]"
+        },
+        {
+          "en": "bottle",
+          "zh": "瓶子",
+          "phonetic": "[ˈbɒtl]"
+        },
+        {
+          "en": "top",
+          "zh": "(位置、级别或程度)最高的",
+          "phonetic": "[tɒp]"
+        },
+        {
+          "en": "useful",
+          "zh": "有用的；有益的",
+          "phonetic": "[ˈjuːsfl]"
+        },
+        {
+          "en": "dirty",
+          "zh": "脏的",
+          "phonetic": "[ˈdɜːti]"
+        },
+        {
+          "en": "side",
+          "zh": "一面；一边",
+          "phonetic": "[saɪd]"
+        }
+      ]
+    }
+  ]
+}

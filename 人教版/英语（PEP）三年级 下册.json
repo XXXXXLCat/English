@@ -1,0 +1,587 @@
+{
+  "id": "custom-mtfl6uge",
+  "title": "英语（PEP）三年级 下册",
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1",
+      "words": [
+        {
+          "en": "where",
+          "zh": "在哪里；到哪里",
+          "phoneticUk": "[weə(r)]"
+        },
+        {
+          "en": "from",
+          "zh": "(表示来源) 来自，从……来",
+          "phoneticUk": "[frɒm]"
+        },
+        {
+          "en": "about",
+          "zh": "关于；大约",
+          "phoneticUk": "[əˈbaʊt]"
+        },
+        {
+          "en": "today",
+          "zh": "今天",
+          "phoneticUk": "[təˈdeɪ]"
+        },
+        {
+          "en": "teacher",
+          "zh": "教师",
+          "phoneticUk": "[ˈtiːtʃə(r)]"
+        },
+        {
+          "en": "student",
+          "zh": "学生",
+          "phoneticUk": "[ˈstjuːdnt]"
+        },
+        {
+          "en": "after",
+          "zh": "在……后面",
+          "phoneticUk": "[ˈɑːftə(r)]"
+        },
+        {
+          "en": "who",
+          "zh": "谁；什么人",
+          "phoneticUk": "[huː]"
+        },
+        {
+          "en": "girl",
+          "zh": "女孩",
+          "phoneticUk": "[ɡɜːl]"
+        },
+        {
+          "en": "neighbour",
+          "zh": "邻居",
+          "phoneticUk": "[ˈneɪbə(r)]"
+        },
+        {
+          "en": "boy",
+          "zh": "男孩",
+          "phoneticUk": "[bɔɪ]"
+        },
+        {
+          "en": "woman",
+          "zh": "成年女子；妇女",
+          "phoneticUk": "[ˈwʊmən]"
+        },
+        {
+          "en": "man",
+          "zh": "成年男子；男人",
+          "phoneticUk": "[mæn]"
+        },
+        {
+          "en": "Mr",
+          "zh": "(用于男子的姓氏或姓名前) 先生",
+          "phoneticUk": "[ˈmɪstə(r)]"
+        },
+        {
+          "en": "classmate",
+          "zh": "同班同学",
+          "phoneticUk": "[ˈklɑːsmeɪt]"
+        },
+        {
+          "en": "he",
+          "zh": "他",
+          "phoneticUk": "[hiː]"
+        },
+        {
+          "en": "also",
+          "zh": "也",
+          "phoneticUk": "[ˈɔːlsəʊ]"
+        },
+        {
+          "en": "English",
+          "zh": "英语的；英语",
+          "phoneticUk": "[ˈɪɡlɪʃ]"
+        },
+        {
+          "en": "she",
+          "zh": "她",
+          "phoneticUk": "[ʃiː]"
+        },
+        {
+          "en": "very",
+          "zh": "很；非常；十分",
+          "phoneticUk": "[ˈveri]"
+        },
+        {
+          "en": "UK",
+          "zh": "英国",
+          "phoneticUk": "[ˌjuː ˈkeɪ]"
+        },
+        {
+          "en": "China",
+          "zh": "中国",
+          "phoneticUk": "[ˈtʃaɪnə]"
+        },
+        {
+          "en": "Canada",
+          "zh": "加拿大",
+          "phoneticUk": "[ˈkænədə]"
+        },
+        {
+          "en": "USA",
+          "zh": "美国",
+          "phoneticUk": "[ˌjuː es ˈeɪ]"
+        },
+        {
+          "en": "has",
+          "zh": "(have 的第三人称单数形式) 具有 (某种外表、特性或特征)",
+          "phoneticUk": "[hæz]"
+        },
+        {
+          "en": "long",
+          "zh": "(长度或距离) 长的",
+          "phoneticUk": "[lɒŋ]"
+        },
+        {
+          "en": "body",
+          "zh": "身体",
+          "phoneticUk": "[ˈbɒdi]"
+        },
+        {
+          "en": "short",
+          "zh": "短的；个子矮的",
+          "phoneticUk": "[ʃːt]"
+        },
+        {
+          "en": "leg",
+          "zh": "腿",
+          "phoneticUk": "[leɡ]"
+        },
+        {
+          "en": "right",
+          "zh": "(意见或判断) 准确，确切，恰当",
+          "phoneticUk": "[raɪt]"
+        },
+        {
+          "en": "fat",
+          "zh": "肥的；肥胖的",
+          "phoneticUk": "[fæt]"
+        },
+        {
+          "en": "thin",
+          "zh": "瘦的",
+          "phoneticUk": "[θɪn]"
+        },
+        {
+          "en": "slow",
+          "zh": "缓慢的；慢的",
+          "phoneticUk": "[sləʊ]"
+        },
+        {
+          "en": "love",
+          "zh": "喜爱；爱",
+          "phoneticUk": "[lʌv]"
+        },
+        {
+          "en": "tail",
+          "zh": "尾；尾巴",
+          "phoneticUk": "[teɪl]"
+        },
+        {
+          "en": "her",
+          "zh": "她；她的",
+          "phoneticUk": "[hɜː(r)]"
+        },
+        {
+          "en": "gift",
+          "zh": "礼物",
+          "phoneticUk": "[ɡɪft]"
+        },
+        {
+          "en": "picture",
+          "zh": "图画；绘画",
+          "phoneticUk": "[ˈpɪktʃə(r)]"
+        },
+        {
+          "en": "card",
+          "zh": "贺卡；慰问卡；卡片",
+          "phoneticUk": "[kɑːd]"
+        },
+        {
+          "en": "sing",
+          "zh": "唱 (歌)；演唱",
+          "phoneticUk": "[sɪ]"
+        },
+        {
+          "en": "dance",
+          "zh": "跳舞",
+          "phoneticUk": "[dɑːns]"
+        },
+        {
+          "en": "talk",
+          "zh": "说话；讲话；谈话",
+          "phoneticUk": "[tɔːk]"
+        },
+        {
+          "en": "face",
+          "zh": "脸；面孔",
+          "phoneticUk": "[feɪs]"
+        },
+        {
+          "en": "all",
+          "zh": "所有；全部",
+          "phoneticUk": "[ɔːl]"
+        },
+        {
+          "en": "song",
+          "zh": "歌；歌曲",
+          "phoneticUk": "[sɒŋ]"
+        },
+        {
+          "en": "or",
+          "zh": "或；或者；还是",
+          "phoneticUk": "[ɔ(r)]"
+        },
+        {
+          "en": "so",
+          "zh": "(表示大小或数量) 这么，那么",
+          "phoneticUk": "[səʊ]"
+        },
+        {
+          "en": "much",
+          "zh": "许多；大量",
+          "phoneticUk": "[mʌtʃ]"
+        },
+        {
+          "en": "eraser",
+          "zh": "橡皮",
+          "phoneticUk": "[ɪˈreɪzə(r)]"
+        },
+        {
+          "en": "find",
+          "zh": "找到；找回",
+          "phoneticUk": "[faɪnd]"
+        },
+        {
+          "en": "ruler",
+          "zh": "直尺",
+          "phoneticUk": "[ˈruːlə(r)]"
+        },
+        {
+          "en": "pen",
+          "zh": "钢笔",
+          "phoneticUk": "[pen]"
+        },
+        {
+          "en": "pencil",
+          "zh": "铅笔",
+          "phoneticUk": "[ˈpensl]"
+        },
+        {
+          "en": "book",
+          "zh": "书；书籍",
+          "phoneticUk": "[bʊk]"
+        },
+        {
+          "en": "bag",
+          "zh": "包；袋",
+          "phoneticUk": "[bæɡ]"
+        },
+        {
+          "en": "paper",
+          "zh": "纸",
+          "phoneticUk": "[ˈpeɪpə(r)]"
+        },
+        {
+          "en": "these",
+          "zh": "这些",
+          "phoneticUk": "[ðiːz]"
+        },
+        {
+          "en": "see",
+          "zh": "看见",
+          "phoneticUk": "[siː]"
+        },
+        {
+          "en": "smell",
+          "zh": "闻 (气味)",
+          "phoneticUk": "[smel]"
+        },
+        {
+          "en": "taste",
+          "zh": "尝 (味道)",
+          "phoneticUk": "[teɪst]"
+        },
+        {
+          "en": "hear",
+          "zh": "听见；听到",
+          "phoneticUk": "[hɪə(r)]"
+        },
+        {
+          "en": "touch",
+          "zh": "触摸；碰",
+          "phoneticUk": "[tʌtʃ]"
+        },
+        {
+          "en": "nose",
+          "zh": "鼻；鼻子",
+          "phoneticUk": "[nəʊz]"
+        },
+        {
+          "en": "tongue",
+          "zh": "舌；舌头",
+          "phoneticUk": "[tʌŋ]"
+        },
+        {
+          "en": "class",
+          "zh": "课；班级",
+          "phoneticUk": "[klɑːs]"
+        },
+        {
+          "en": "in",
+          "zh": "在……内；在……中；(in class) 在课堂上",
+          "phoneticUk": "[ɪn]"
+        },
+        {
+          "en": "computer",
+          "zh": "计算机；电脑",
+          "phoneticUk": "[kəmˈpjutə(r)]"
+        },
+        {
+          "en": "learn",
+          "zh": "学；学习",
+          "phoneticUk": "[lɜːn]"
+        },
+        {
+          "en": "breakfast",
+          "zh": "早餐；早饭",
+          "phoneticUk": "[ˈbrekfəst]"
+        },
+        {
+          "en": "time",
+          "zh": "时间",
+          "phoneticUk": "[taɪm]"
+        },
+        {
+          "en": "bread",
+          "zh": "面包",
+          "phoneticUk": "[bred]"
+        },
+        {
+          "en": "egg",
+          "zh": "(作食物用的) 蛋；鸡蛋",
+          "phoneticUk": "[eɡ]"
+        },
+        {
+          "en": "milk",
+          "zh": "(牛或羊等的) 奶",
+          "phoneticUk": "[mɪlk]"
+        },
+        {
+          "en": "noodle",
+          "zh": "(常用复数) 面条",
+          "phoneticUk": "[ˈnuːdl]"
+        },
+        {
+          "en": "juice",
+          "zh": "果汁",
+          "phoneticUk": "[dʒuːs]"
+        },
+        {
+          "en": "rice",
+          "zh": "大米",
+          "phoneticUk": "[raɪs]"
+        },
+        {
+          "en": "meat",
+          "zh": "肉",
+          "phoneticUk": "[miːt]"
+        },
+        {
+          "en": "vegetable",
+          "zh": "蔬菜",
+          "phoneticUk": "[ˈvedʒtəbl]"
+        },
+        {
+          "en": "healthy",
+          "zh": "健康的",
+          "phoneticUk": "[ˈhelθi]"
+        },
+        {
+          "en": "plate",
+          "zh": "盘子",
+          "phoneticUk": "[pleɪt]"
+        },
+        {
+          "en": "soup",
+          "zh": "汤",
+          "phoneticUk": "[suːp]"
+        },
+        {
+          "en": "fruit",
+          "zh": "水果",
+          "phoneticUk": "[fruːt]"
+        },
+        {
+          "en": "colourful",
+          "zh": "五彩缤纷的",
+          "phoneticUk": "[ˈkʌləfl]"
+        },
+        {
+          "en": "candy",
+          "zh": "糖果",
+          "phoneticUk": "[ˈkændi]"
+        },
+        {
+          "en": "yummy",
+          "zh": "很好吃的",
+          "phoneticUk": "[ˈjʌmi]"
+        },
+        {
+          "en": "boat",
+          "zh": "小船；舟",
+          "phoneticUk": "[bəʊt]"
+        },
+        {
+          "en": "cool",
+          "zh": "(因时髦、漂亮且与众不同而) 酷的；绝妙的",
+          "phoneticUk": "[kuːl]"
+        },
+        {
+          "en": "keep",
+          "zh": "保有；留着",
+          "phoneticUk": "[kiːp]"
+        },
+        {
+          "en": "at",
+          "zh": "在 (某处)",
+          "phoneticUk": "[æt]"
+        },
+        {
+          "en": "home",
+          "zh": "家；住所",
+          "phoneticUk": "[həʊm]"
+        },
+        {
+          "en": "ball",
+          "zh": "球",
+          "phoneticUk": "[bɔːl]"
+        },
+        {
+          "en": "doll",
+          "zh": "玩偶；玩具娃娃",
+          "phoneticUk": "[dɒl]"
+        },
+        {
+          "en": "car",
+          "zh": "小汽车；轿车",
+          "phoneticUk": "[kɑː(r)]"
+        },
+        {
+          "en": "on",
+          "zh": "(覆盖、附着) 在……上",
+          "phoneticUk": "[ɒn]"
+        },
+        {
+          "en": "shelf",
+          "zh": "架子",
+          "phoneticUk": "[ʃelf]"
+        },
+        {
+          "en": "shelves",
+          "zh": "架子(复数)",
+          "phoneticUk": "[ʃelvz]"
+        },
+        {
+          "en": "box",
+          "zh": "盒子",
+          "phoneticUk": "[bɒks]"
+        },
+        {
+          "en": "cap",
+          "zh": "帽子",
+          "phoneticUk": "[kæp]"
+        },
+        {
+          "en": "map",
+          "zh": "地图",
+          "phoneticUk": "[mæp]"
+        },
+        {
+          "en": "under",
+          "zh": "在 (或到、通过) ……下面",
+          "phoneticUk": "[ˈʌndə(r)]"
+        },
+        {
+          "en": "still",
+          "zh": "还是；仍然",
+          "phoneticUk": "[stɪl]"
+        },
+        {
+          "en": "put",
+          "zh": "放；安置",
+          "phoneticUk": "[pʊt]"
+        },
+        {
+          "en": "fifteen",
+          "zh": "十五",
+          "phoneticUk": "[ˌfɪfˈtiːn]"
+        },
+        {
+          "en": "twelve",
+          "zh": "十二",
+          "phoneticUk": "[twelv]"
+        },
+        {
+          "en": "fourteen",
+          "zh": "十四",
+          "phoneticUk": "[ˌfɔːˈtiːn]"
+        },
+        {
+          "en": "thirteen",
+          "zh": "十三",
+          "phoneticUk": "[ˌθɜːˈtiːn]"
+        },
+        {
+          "en": "eleven",
+          "zh": "十一",
+          "phoneticUk": "[ɪˈlevn]"
+        },
+        {
+          "en": "twenty",
+          "zh": "二十",
+          "phoneticUk": "[ˈtwenti]"
+        },
+        {
+          "en": "seventeen",
+          "zh": "十七",
+          "phoneticUk": "[ˌsevnˈtiːn]"
+        },
+        {
+          "en": "sixteen",
+          "zh": "十六",
+          "phoneticUk": "[ˌsɪksˈtiːn]"
+        },
+        {
+          "en": "eighteen",
+          "zh": "十八",
+          "phoneticUk": "[ˌeɪˈtiːn]"
+        },
+        {
+          "en": "nineteen",
+          "zh": "十九",
+          "phoneticUk": "[ˌnaɪnˈtiːn]"
+        },
+        {
+          "en": "piggy bank",
+          "zh": "储钱罐",
+          "phoneticUk": "[ˈpɪɡi bæŋk]"
+        },
+        {
+          "en": "pay",
+          "zh": "付费",
+          "phoneticUk": "[peɪ]"
+        },
+        {
+          "en": "back",
+          "zh": "回到原处",
+          "phoneticUk": "[bæk]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "id": "custom-mtfl6vlq",
+  "title": "英语（PEP）四年级 下册",
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1",
+      "words": [
+        {
+          "en": "sorry",
+          "zh": "对不起",
+          "phonetic": "[ˈsɒri]"
+        },
+        {
+          "en": "hurry up",
+          "zh": "快点；赶快",
+          "phonetic": "[ˈhʌri ʌp]"
+        },
+        {
+          "en": "late",
+          "zh": "迟到；迟发生",
+          "phonetic": "[leɪt]"
+        },
+        {
+          "en": "class",
+          "zh": "课；课程；班；班级",
+          "phonetic": "[klɑːs]"
+        },
+        {
+          "en": "ready",
+          "zh": "准备好",
+          "phonetic": "[ˈredi]"
+        },
+        {
+          "en": "rule",
+          "zh": "规则；规章",
+          "phonetic": "[ruːl]"
+        },
+        {
+          "en": "classroom",
+          "zh": "教室",
+          "phonetic": "[ˈklɑːsruːm]"
+        },
+        {
+          "en": "turn off",
+          "zh": "关掉",
+          "phonetic": "[tɜːn ɒf]"
+        },
+        {
+          "en": "light",
+          "zh": "灯；光",
+          "phonetic": "[laɪt]"
+        },
+        {
+          "en": "blackboard",
+          "zh": "黑板",
+          "phonetic": "[ˈblækbɔːd]"
+        },
+        {
+          "en": "desk",
+          "zh": "书桌；办公桌",
+          "phonetic": "[desk]"
+        },
+        {
+          "en": "chair",
+          "zh": "椅子",
+          "phonetic": "[tʃeə(r)]"
+        },
+        {
+          "en": "tidy",
+          "zh": "整洁的；整齐的；使整洁；整理",
+          "phonetic": "[ˈtaɪdi]"
+        },
+        {
+          "en": "music",
+          "zh": "音乐",
+          "phonetic": "[ˈmjuːzɪk]"
+        },
+        {
+          "en": "door",
+          "zh": "门",
+          "phonetic": "[dɔː(r)]"
+        },
+        {
+          "en": "window",
+          "zh": "窗",
+          "phonetic": "[ˈwɪndəʊ]"
+        },
+        {
+          "en": "fan",
+          "zh": "风扇",
+          "phonetic": "[fæn]"
+        },
+        {
+          "en": "when",
+          "zh": "当……时；什么时候",
+          "phonetic": "[wen]"
+        },
+        {
+          "en": "understand",
+          "zh": "懂；理解",
+          "phonetic": "[ˌʌndəˈstænd]"
+        },
+        {
+          "en": "wall",
+          "zh": "墙；壁",
+          "phonetic": "[wɔːl]"
+        },
+        {
+          "en": "newspaper",
+          "zh": "报纸",
+          "phonetic": "[ˈnjuːzpeɪpə(r)]"
+        },
+        {
+          "en": "hand out",
+          "zh": "分发",
+          "phonetic": "[hænd aʊt]"
+        },
+        {
+          "en": "workbook",
+          "zh": "练习册；作业本",
+          "phonetic": "[ˈwɜːkbʊk]"
+        },
+        {
+          "en": "watch",
+          "zh": "看",
+          "phonetic": "[wɒtʃ]"
+        },
+        {
+          "en": "TV",
+          "zh": "电视",
+          "phonetic": "[ˌtiːˈviː]"
+        },
+        {
+          "en": "homework",
+          "zh": "家庭作业",
+          "phonetic": "[ˈhəʊmwɜːk]"
+        },
+        {
+          "en": "first",
+          "zh": "首先；首次；第一",
+          "phonetic": "[fɜːst]"
+        },
+        {
+          "en": "wet",
+          "zh": "湿的；未干的",
+          "phonetic": "[wet]"
+        },
+        {
+          "en": "run",
+          "zh": "跑；奔跑",
+          "phonetic": "[rʌn]"
+        },
+        {
+          "en": "living room",
+          "zh": "客厅；起居室",
+          "phonetic": "[ˈlɪvɪŋ ruːm]"
+        },
+        {
+          "en": "safe",
+          "zh": "安全的",
+          "phonetic": "[seɪf]"
+        },
+        {
+          "en": "word",
+          "zh": "言语；单词；字",
+          "phonetic": "[wɜːd]"
+        },
+        {
+          "en": "wash",
+          "zh": "洗",
+          "phonetic": "[wɒʃ]"
+        },
+        {
+          "en": "helpful",
+          "zh": "有帮助的；有用的",
+          "phonetic": "[ˈhelpfl]"
+        },
+        {
+          "en": "loud",
+          "zh": "说话太大声的；吵闹的",
+          "phonetic": "[laʊd]"
+        },
+        {
+          "en": "sleep",
+          "zh": "睡觉",
+          "phonetic": "[sliːp]"
+        },
+        {
+          "en": "bedroom",
+          "zh": "卧室",
+          "phonetic": "[ˈbedruːm]"
+        },
+        {
+          "en": "kitchen",
+          "zh": "厨房",
+          "phonetic": "[ˈkɪtʃɪn]"
+        },
+        {
+          "en": "study",
+          "zh": "书房",
+          "phonetic": "[ˈstʌdi]"
+        },
+        {
+          "en": "bathroom",
+          "zh": "浴室；洗手间",
+          "phonetic": "[ˈbɑːθruːm]"
+        },
+        {
+          "en": "think",
+          "zh": "想；思考",
+          "phonetic": "[θɪŋk]"
+        },
+        {
+          "en": "work",
+          "zh": "（花费时间和精力）做（某事）；工作",
+          "phonetic": "[wɜːk]"
+        },
+        {
+          "en": "hard",
+          "zh": "努力地；费力地",
+          "phonetic": "[hɑːd]"
+        },
+        {
+          "en": "follow",
+          "zh": "遵循，听从（忠告、指示等）",
+          "phonetic": "[ˈfɒləʊ]"
+        },
+        {
+          "en": "feel",
+          "zh": "觉得；感到",
+          "phonetic": "[fiːl]"
+        },
+        {
+          "en": "over",
+          "zh": "结束（的）",
+          "phonetic": "[ˈəʊvə(r)]"
+        },
+        {
+          "en": "kid",
+          "zh": "小孩",
+          "phonetic": "[kɪd]"
+        },
+        {
+          "en": "dinner",
+          "zh": "（中午或晚上吃的）正餐",
+          "phonetic": "[ˈdɪnə(r)]"
+        },
+        {
+          "en": "art",
+          "zh": "美术；艺术",
+          "phonetic": "[ɑːt]"
+        },
+        {
+          "en": "lunch",
+          "zh": "午餐",
+          "phonetic": "[lʌntʃ]"
+        },
+        {
+          "en": "maths",
+          "zh": "数学",
+          "phonetic": "[mæθs]"
+        },
+        {
+          "en": "get up",
+          "zh": "起床"
+        },
+        {
+          "en": "go to school",
+          "zh": "上学"
+        },
+        {
+          "en": "go home",
+          "zh": "回家"
+        },
+        {
+          "en": "go to bed",
+          "zh": "上床睡觉"
+        },
+        {
+          "en": "want",
+          "zh": "想要",
+          "phonetic": "[wɒnt]"
+        },
+        {
+          "en": "clock",
+          "zh": "时钟",
+          "phonetic": "[klɒk]"
+        },
+        {
+          "en": "just",
+          "zh": "只是；仅仅；正要",
+          "phonetic": "[dʒʌst]"
+        },
+        {
+          "en": "minute",
+          "zh": "分钟",
+          "phonetic": "[ˈmɪnɪt]"
+        },
+        {
+          "en": "trousers",
+          "zh": "裤子",
+          "phonetic": "[ˈtraʊzəz]"
+        },
+        {
+          "en": "pair",
+          "zh": "（由连在一起的相似两部分构成的）一条，一副",
+          "phonetic": "[peə(r)]"
+        },
+        {
+          "en": "clothes",
+          "zh": "衣服；服装",
+          "phonetic": "[kləʊðz]"
+        },
+        {
+          "en": "those",
+          "zh": "（指较远的人或事物）那些",
+          "phonetic": "[ðəʊz]"
+        },
+        {
+          "en": "shorts",
+          "zh": "短裤",
+          "phonetic": "[ʃɔːts]"
+        },
+        {
+          "en": "jacket",
+          "zh": "夹克衫；短上衣",
+          "phonetic": "[ˈdʒækɪt]"
+        },
+        {
+          "en": "skirt",
+          "zh": "裙子",
+          "phonetic": "[skɜːt]"
+        },
+        {
+          "en": "dear",
+          "zh": "亲爱的",
+          "phonetic": "[dɪə(r)]"
+        },
+        {
+          "en": "expensive",
+          "zh": "昂贵的；价格高的",
+          "phonetic": "[ɪkˈspensɪv]"
+        },
+        {
+          "en": "take",
+          "zh": "买下",
+          "phonetic": "[teɪk]"
+        },
+        {
+          "en": "cheap",
+          "zh": "便宜的",
+          "phonetic": "[tʃiːp]"
+        },
+        {
+          "en": "shoe",
+          "zh": "鞋",
+          "phonetic": "[ʃuː]"
+        },
+        {
+          "en": "beautiful",
+          "zh": "美丽的",
+          "phonetic": "[ˈbjuːtɪfl]"
+        },
+        {
+          "en": "hat",
+          "zh": "帽子",
+          "phonetic": "[hæt]"
+        },
+        {
+          "en": "sunglasses",
+          "zh": "太阳镜；墨镜",
+          "phonetic": "[ˈsʌŋɡlɑːsɪz]"
+        },
+        {
+          "en": "free",
+          "zh": "免费的",
+          "phonetic": "[friː]"
+        },
+        {
+          "en": "large",
+          "zh": "（服装、食物、日用品等）大型号的",
+          "phonetic": "[lɑːdʒ]"
+        },
+        {
+          "en": "size",
+          "zh": "尺码；号",
+          "phonetic": "[saɪz]"
+        },
+        {
+          "en": "list",
+          "zh": "清单；目录",
+          "phonetic": "[lɪst]"
+        },
+        {
+          "en": "try on",
+          "zh": "试穿",
+          "phonetic": "[traɪ ɒn]"
+        },
+        {
+          "en": "any",
+          "zh": "任何的；任一的",
+          "phonetic": "[ˈeni]"
+        },
+        {
+          "en": "cow",
+          "zh": "奶牛",
+          "phonetic": "[kaʊ]"
+        },
+        {
+          "en": "horse",
+          "zh": "马",
+          "phonetic": "[hɔːs]"
+        },
+        {
+          "en": "sheep",
+          "zh": "羊；绵羊",
+          "phonetic": "[ʃiːp]"
+        },
+        {
+          "en": "pig",
+          "zh": "猪",
+          "phonetic": "[pɪɡ]"
+        },
+        {
+          "en": "chicken",
+          "zh": "鸡；鸡肉",
+          "phonetic": "[ˈtʃɪkɪn]"
+        },
+        {
+          "en": "tomato",
+          "zh": "西红柿",
+          "phonetic": "[təˈmɑːtəʊ]"
+        },
+        {
+          "en": "tomatoes",
+          "zh": "西红柿(复数)",
+          "phonetic": "[təˈmɑːtəʊz]"
+        },
+        {
+          "en": "bee",
+          "zh": "蜜蜂",
+          "phonetic": "[biː]"
+        },
+        {
+          "en": "mouse",
+          "zh": "老鼠",
+          "phonetic": "[maʊs]"
+        },
+        {
+          "en": "mice",
+          "zh": "老鼠(复数)",
+          "phonetic": "[maɪs]"
+        },
+        {
+          "en": "carrot",
+          "zh": "胡萝卜",
+          "phonetic": "[ˈkærət]"
+        },
+        {
+          "en": "potato",
+          "zh": "土豆",
+          "phonetic": "[pəˈteɪtəʊ]"
+        },
+        {
+          "en": "potatoes",
+          "zh": "土豆(复数)",
+          "phonetic": "[pəˈteɪtəʊz]"
+        },
+        {
+          "en": "green bean",
+          "zh": "青刀豆；四季豆",
+          "phonetic": "[ɡriːn biːn]"
+        },
+        {
+          "en": "green beans",
+          "zh": "青刀豆；四季豆(复数)",
+          "phonetic": "[ɡriːn biːnz]"
+        },
+        {
+          "en": "can",
+          "zh": "（盛食品或饮料的）金属罐",
+          "phonetic": "[kæn]"
+        },
+        {
+          "en": "a box of",
+          "zh": "一盒，一箱（东西）",
+          "phonetic": "[ə bɒks ɒv]"
+        },
+        {
+          "en": "feed",
+          "zh": "给（人或动物）食物；饲养",
+          "phonetic": "[fiːd]"
+        },
+        {
+          "en": "pass",
+          "zh": "给；递",
+          "phonetic": "[pɑːs]"
+        },
+        {
+          "en": "pick",
+          "zh": "采；摘",
+          "phonetic": "[pɪk]"
+        },
+        {
+          "en": "milk",
+          "zh": "挤奶",
+          "phonetic": "[mɪlk]"
+        },
+        {
+          "en": "knife",
+          "zh": "刀",
+          "phonetic": "[naɪf]"
+        },
+        {
+          "en": "knives",
+          "zh": "刀(复数)",
+          "phonetic": "[naɪvz]"
+        },
+        {
+          "en": "fork",
+          "zh": "餐叉",
+          "phonetic": "[fɔːk]"
+        },
+        {
+          "en": "chopstick",
+          "zh": "（常用复数）筷子",
+          "phonetic": "[ˈtʃɒpstɪk]"
+        },
+        {
+          "en": "chopsticks",
+          "zh": "筷子(复数)",
+          "phonetic": "[ˈtʃɒpstɪks]"
+        },
+        {
+          "en": "waste",
+          "zh": "浪费；废品",
+          "phonetic": "[weɪst]"
+        },
+        {
+          "en": "food",
+          "zh": "菜肴；食物",
+          "phonetic": "[fuːd]"
+        },
+        {
+          "en": "delicious",
+          "zh": "美味的；可口的",
+          "phonetic": "[dɪˈlɪʃəs]"
+        },
+        {
+          "en": "clear the table",
+          "zh": "收拾餐桌",
+          "phonetic": "[klɪə ðə ˈteɪbl]"
+        },
+        {
+          "en": "set the table",
+          "zh": "摆放餐具",
+          "phonetic": "[set ðə ˈteɪbl]"
+        },
+        {
+          "en": "bowl",
+          "zh": "碗",
+          "phonetic": "[bəʊl]"
+        },
+        {
+          "en": "spoon",
+          "zh": "勺；匙；调羹",
+          "phonetic": "[spuːn]"
+        },
+        {
+          "en": "supermarket",
+          "zh": "超市",
+          "phonetic": "[ˈsuːpəmɑːkɪt]"
+        },
+        {
+          "en": "herself",
+          "zh": "（用作女性的反身代词）她自己，自己",
+          "phonetic": "[hɜːˈself]"
+        },
+        {
+          "en": "week",
+          "zh": "周；星期",
+          "phonetic": "[wiːk]"
+        },
+        {
+          "en": "salad",
+          "zh": "蔬菜沙拉",
+          "phonetic": "[ˈsæləd]"
+        }
+      ]
+    }
+  ]
+}

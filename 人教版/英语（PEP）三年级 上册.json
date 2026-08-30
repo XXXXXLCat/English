@@ -1,0 +1,547 @@
+{
+  "id": "custom-mtfl6u89",
+  "title": "英语（PEP）三年级 上册",
+  "units": [
+    {
+      "id": "unit_1",
+      "title": "Unit 1",
+      "words": [
+        {
+          "en": "name",
+          "zh": "名字",
+          "phoneticUk": "[neɪm]"
+        },
+        {
+          "en": "nice",
+          "zh": "令人愉快的；友好的",
+          "phoneticUk": "[naɪs]"
+        },
+        {
+          "en": "ear",
+          "zh": "耳朵",
+          "phoneticUk": "[ɪə(r)]"
+        },
+        {
+          "en": "hand",
+          "zh": "手",
+          "phoneticUk": "[hænd]"
+        },
+        {
+          "en": "eye",
+          "zh": "眼睛",
+          "phoneticUk": "[aɪ]"
+        },
+        {
+          "en": "mouth",
+          "zh": "嘴",
+          "phoneticUk": "[maʊθ]"
+        },
+        {
+          "en": "arm",
+          "zh": "胳膊",
+          "phoneticUk": "[ɑːm]"
+        },
+        {
+          "en": "can",
+          "zh": "可以",
+          "phoneticUk": "[kən, kæn]"
+        },
+        {
+          "en": "share",
+          "zh": "分享",
+          "phoneticUk": "[ʃeə(r)]"
+        },
+        {
+          "en": "smile",
+          "zh": "微笑；笑",
+          "phoneticUk": "[smaɪl]"
+        },
+        {
+          "en": "listen",
+          "zh": "听；倾听",
+          "phoneticUk": "[ˈlɪsn]"
+        },
+        {
+          "en": "help",
+          "zh": "帮助",
+          "phoneticUk": "[help]"
+        },
+        {
+          "en": "say",
+          "zh": "说；讲",
+          "phoneticUk": "[seɪ]"
+        },
+        {
+          "en": "friend",
+          "zh": "朋友",
+          "phoneticUk": "[frend]"
+        },
+        {
+          "en": "good",
+          "zh": "好的",
+          "phoneticUk": "[ɡʊd]"
+        },
+        {
+          "en": "grandmother",
+          "zh": "(外)祖母；奶奶；姥姥；外婆",
+          "phoneticUk": "[ˈɡrænmʌðə(r)]"
+        },
+        {
+          "en": "mother",
+          "zh": "母亲；妈妈",
+          "phoneticUk": "[ˈmʌðə(r)]"
+        },
+        {
+          "en": "father",
+          "zh": "父亲；爸爸",
+          "phoneticUk": "[ˈfɑðə(r)]"
+        },
+        {
+          "en": "me",
+          "zh": "我",
+          "phoneticUk": "[miː]"
+        },
+        {
+          "en": "sister",
+          "zh": "姐；妹",
+          "phoneticUk": "[ˈsɪstə(r)]"
+        },
+        {
+          "en": "family",
+          "zh": "家；家庭",
+          "phoneticUk": "[ˈfæməli]"
+        },
+        {
+          "en": "have",
+          "zh": "有",
+          "phoneticUk": "[hæv]"
+        },
+        {
+          "en": "big",
+          "zh": "大的",
+          "phoneticUk": "[bɪɡ]"
+        },
+        {
+          "en": "cousin",
+          "zh": "堂(表)兄弟；堂(表)姐妹",
+          "phoneticUk": "[ˈkʌzn]"
+        },
+        {
+          "en": "brother",
+          "zh": "哥；弟",
+          "phoneticUk": "[ˈbrʌðə(r)]"
+        },
+        {
+          "en": "baby",
+          "zh": "婴儿",
+          "phoneticUk": "[ˈbeɪbi]"
+        },
+        {
+          "en": "uncle",
+          "zh": "伯父；叔父；舅父；姑父；姨父",
+          "phoneticUk": "[ˈʌŋkl]"
+        },
+        {
+          "en": "aunt",
+          "zh": "伯母；婶母；舅母；姑母；姨母",
+          "phoneticUk": "[ɑːnt]"
+        },
+        {
+          "en": "small",
+          "zh": "小的",
+          "phoneticUk": "[smɔːl]"
+        },
+        {
+          "en": "mum",
+          "zh": "(口语) 妈妈",
+          "phoneticUk": "[mʌm]"
+        },
+        {
+          "en": "dad",
+          "zh": "(口语) 爸爸；爹爹",
+          "phoneticUk": "[dæd]"
+        },
+        {
+          "en": "grandma",
+          "zh": "奶奶；姥姥",
+          "phoneticUk": "[ˈɡrænmɑː]"
+        },
+        {
+          "en": "grandpa",
+          "zh": "爷爷；姥爷",
+          "phoneticUk": "[ˈɡrænpɑː]"
+        },
+        {
+          "en": "grandfather",
+          "zh": "(外)祖父；爷爷；姥爷；外公",
+          "phoneticUk": "[ˈɡrænfɑːðə(r)]"
+        },
+        {
+          "en": "like",
+          "zh": "喜欢",
+          "phoneticUk": "[laɪk]"
+        },
+        {
+          "en": "dog",
+          "zh": "狗",
+          "phoneticUk": "[dɒɡ]"
+        },
+        {
+          "en": "pet",
+          "zh": "宠物",
+          "phoneticUk": "[pet]"
+        },
+        {
+          "en": "cat",
+          "zh": "猫",
+          "phoneticUk": "[kæt]"
+        },
+        {
+          "en": "fish",
+          "zh": "鱼；鱼肉",
+          "phoneticUk": "[fɪʃ]"
+        },
+        {
+          "en": "bird",
+          "zh": "鸟",
+          "phoneticUk": "[bɜːd]"
+        },
+        {
+          "en": "rabbit",
+          "zh": "兔",
+          "phoneticUk": "[ˈræbɪt]"
+        },
+        {
+          "en": "go",
+          "zh": "去；走",
+          "phoneticUk": "[ɡəʊ]"
+        },
+        {
+          "en": "zoo",
+          "zh": "动物园",
+          "phoneticUk": "[zuː]"
+        },
+        {
+          "en": "fox",
+          "zh": "狐狸",
+          "phoneticUk": "[fɒks]"
+        },
+        {
+          "en": "Miss",
+          "zh": "(学生对女教师的称呼) 老师；女士",
+          "phoneticUk": "[mɪs]"
+        },
+        {
+          "en": "panda",
+          "zh": "大熊猫",
+          "phoneticUk": "[ˈpændə]"
+        },
+        {
+          "en": "red panda",
+          "zh": "小熊猫",
+          "phoneticUk": "[red/ /ˈpændə]"
+        },
+        {
+          "en": "cute",
+          "zh": "可爱的",
+          "phoneticUk": "[kjuːt]"
+        },
+        {
+          "en": "monkey",
+          "zh": "猴子",
+          "phoneticUk": "[ˈmʌŋki]"
+        },
+        {
+          "en": "tiger",
+          "zh": "老虎",
+          "phoneticUk": "[ˈtaɪɡə(r)]"
+        },
+        {
+          "en": "elephant",
+          "zh": "大象",
+          "phoneticUk": "[ˈelɪfənt]"
+        },
+        {
+          "en": "lion",
+          "zh": "狮；狮子",
+          "phoneticUk": "[ˈlaɪən]"
+        },
+        {
+          "en": "animal",
+          "zh": "动物",
+          "phoneticUk": "[ˈænɪml]"
+        },
+        {
+          "en": "giraffe",
+          "zh": "长颈鹿",
+          "phoneticUk": "[dʒəˈrɑf]"
+        },
+        {
+          "en": "tall",
+          "zh": "高的",
+          "phoneticUk": "[tɔl]"
+        },
+        {
+          "en": "fast",
+          "zh": "快的",
+          "phoneticUk": "[fɑːst]"
+        },
+        {
+          "en": "tree",
+          "zh": "树",
+          "phoneticUk": "[triː]"
+        },
+        {
+          "en": "sun",
+          "zh": "阳光；太阳",
+          "phoneticUk": "[sʌn]"
+        },
+        {
+          "en": "give",
+          "zh": "给",
+          "phoneticUk": "[ɡɪv]"
+        },
+        {
+          "en": "us",
+          "zh": "我们",
+          "phoneticUk": "[ʌs]"
+        },
+        {
+          "en": "them",
+          "zh": "它们；他们；她们",
+          "phoneticUk": "[ðəm, ðem]"
+        },
+        {
+          "en": "apple",
+          "zh": "苹果",
+          "phoneticUk": "[ˈæpl]"
+        },
+        {
+          "en": "banana",
+          "zh": "香蕉",
+          "phoneticUk": "[bəˈnɑːnə]"
+        },
+        {
+          "en": "farm",
+          "zh": "农场",
+          "phoneticUk": "[fɑːm]"
+        },
+        {
+          "en": "air",
+          "zh": "空气",
+          "phoneticUk": "[eə(r)]"
+        },
+        {
+          "en": "orange",
+          "zh": "橙子；柑橘；橙红色；橙红色的",
+          "phoneticUk": "[ˈɒrɪndʒ]"
+        },
+        {
+          "en": "grape",
+          "zh": "葡萄",
+          "phoneticUk": "[ɡreɪp]"
+        },
+        {
+          "en": "school",
+          "zh": "学校",
+          "phoneticUk": "[skuːl]"
+        },
+        {
+          "en": "garden",
+          "zh": "花园",
+          "phoneticUk": "[ˈɡɑːdn]"
+        },
+        {
+          "en": "need",
+          "zh": "需要",
+          "phoneticUk": "[niːd]"
+        },
+        {
+          "en": "water",
+          "zh": "给……浇水；水",
+          "phoneticUk": "[ˈwɔːtə(r)]"
+        },
+        {
+          "en": "flower",
+          "zh": "花；花朵",
+          "phoneticUk": "[ˈflaə(r)]"
+        },
+        {
+          "en": "grass",
+          "zh": "草；草地",
+          "phoneticUk": "[ɡrɑːs]"
+        },
+        {
+          "en": "plant",
+          "zh": "种植；植物",
+          "phoneticUk": "[plɑːnt]"
+        },
+        {
+          "en": "new",
+          "zh": "新的",
+          "phoneticUk": "[njuː]"
+        },
+        {
+          "en": "colour",
+          "zh": "颜色",
+          "phoneticUk": "[ˈkʌlə(r)]"
+        },
+        {
+          "en": "green",
+          "zh": "绿色；绿色的",
+          "phoneticUk": "[ɡriːn]"
+        },
+        {
+          "en": "red",
+          "zh": "红色；红色的",
+          "phoneticUk": "[red]"
+        },
+        {
+          "en": "blue",
+          "zh": "蓝色；蓝色的",
+          "phoneticUk": "[bluː]"
+        },
+        {
+          "en": "make",
+          "zh": "使出现；做",
+          "phoneticUk": "[meɪk]"
+        },
+        {
+          "en": "purple",
+          "zh": "紫色；紫色的",
+          "phoneticUk": "[ˈpɜːpl]"
+        },
+        {
+          "en": "brown",
+          "zh": "棕色；棕色的",
+          "phoneticUk": "[braʊn]"
+        },
+        {
+          "en": "bear",
+          "zh": "熊",
+          "phoneticUk": "[beə(r)]"
+        },
+        {
+          "en": "yellow",
+          "zh": "黄色；黄色的",
+          "phoneticUk": "[ˈjeləʊ]"
+        },
+        {
+          "en": "duck",
+          "zh": "鸭",
+          "phoneticUk": "[dʌk]"
+        },
+        {
+          "en": "sea",
+          "zh": "海；海洋",
+          "phoneticUk": "[siː]"
+        },
+        {
+          "en": "some",
+          "zh": "一些",
+          "phoneticUk": "[səm, sʌm]"
+        },
+        {
+          "en": "pink",
+          "zh": "粉色；粉色的",
+          "phoneticUk": "[pɪŋk]"
+        },
+        {
+          "en": "draw",
+          "zh": "画",
+          "phoneticUk": "[drɔː]"
+        },
+        {
+          "en": "white",
+          "zh": "白色；白色的",
+          "phoneticUk": "[waɪt]"
+        },
+        {
+          "en": "black",
+          "zh": "黑色；黑色的",
+          "phoneticUk": "[blæk]"
+        },
+        {
+          "en": "old",
+          "zh": "(多少)岁；年纪；旧的",
+          "phoneticUk": "[əʊld]"
+        },
+        {
+          "en": "five",
+          "zh": "五",
+          "phoneticUk": "[faɪv]"
+        },
+        {
+          "en": "year",
+          "zh": "年纪；年",
+          "phoneticUk": "[jɪə(r)]"
+        },
+        {
+          "en": "one",
+          "zh": "一",
+          "phoneticUk": "[wʌn]"
+        },
+        {
+          "en": "two",
+          "zh": "二",
+          "phoneticUk": "[tuː]"
+        },
+        {
+          "en": "three",
+          "zh": "三",
+          "phoneticUk": "[θriː]"
+        },
+        {
+          "en": "four",
+          "zh": "四",
+          "phoneticUk": "[fɔː(r)]"
+        },
+        {
+          "en": "ten",
+          "zh": "十",
+          "phoneticUk": "[ten]"
+        },
+        {
+          "en": "six",
+          "zh": "六",
+          "phoneticUk": "[sɪks]"
+        },
+        {
+          "en": "seven",
+          "zh": "七",
+          "phoneticUk": "[ˈsevn]"
+        },
+        {
+          "en": "eight",
+          "zh": "八",
+          "phoneticUk": "[eɪt]"
+        },
+        {
+          "en": "nine",
+          "zh": "九",
+          "phoneticUk": "[naɪn]"
+        },
+        {
+          "en": "o'clock",
+          "zh": "(表示整点) ……点钟",
+          "phoneticUk": "[əˈklɒk]"
+        },
+        {
+          "en": "cut",
+          "zh": "切块",
+          "phoneticUk": "[kʌt]"
+        },
+        {
+          "en": "eat",
+          "zh": "吃",
+          "phoneticUk": "[iːt]"
+        },
+        {
+          "en": "cake",
+          "zh": "蛋糕",
+          "phoneticUk": "[keɪk]"
+        }
+      ]
+    }
+  ]
+}
